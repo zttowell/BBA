@@ -6,6 +6,7 @@
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
+<div id="nav_container">
 	<ul id="nav_ul">
 		<li><a href="#">Home</a></li>
 		<li><a href="#">About</a></li>
@@ -19,7 +20,7 @@
 		<li><a href="#">Counseling</a></li>
 		<li><a href="#">Resources</a></li>
 	</ul>
-
+</div>
 
 <script>document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>')</script>
 </body>
