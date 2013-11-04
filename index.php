@@ -7,17 +7,17 @@
 </head>
 <body>
 	<ul id="nav_ul">
-		<li>Home</li>
-		<li>About</li>
-		<li>Contact</li>
-		<li>Churches</li>
-		<li>Calendar</li>
-		<li>Employees</li>
-		<li>Missons</li>
-		<li>Reaching Out</li>
-		<li>Staff Positions</li>
-		<li>Counseling</li>
-		<li>Resources</li>
+		<li><a href="#">Home</a></li>
+		<li><a href="#">About</a></li>
+		<li><a href="#">Contact</a></li>
+		<li><a href="#">Churches</a></li>
+		<li><a href="#">Calendar</a></li>
+		<li><a href="#">Employees</a></li>
+		<li><a href="#">Missons</a></li>
+		<li><a href="#">Reaching Out</a></li>
+		<li><a href="#">Staff Positions</a></li>
+		<li><a href="#">Counseling</a></li>
+		<li><a href="#">Resources</a></li>
 	</ul>
 
 
