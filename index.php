@@ -8,17 +8,25 @@
 <body>
 <div id="nav_container">
 	<ul id="nav_ul">
-		<li><a href="#">Home</a></li>
-		<li><a href="about.php">About</a></li>
-		<li><a href="contact.php">Contact</a></li>
-		<li><a href="churches.php">Churches</a></li>
-		<li><a href="calendar.php">Calendar</a></li>
-		<li><a href="employees.php">Employees</a></li>
+		<li><a href="index.php">Home</a></li>
+		<li><a href="about.php">About Us</a></li>
+			<ul>
+				<li><a href="about.php">About Us</a></li>
+				<li><a href="contact.php">Contact</a></li>
+				<li><a href="churches.php">Churches</a></li>
+				<li><a href="calendar.php">Calendar</a></li>
+				<li><a href="employees.php">Employees</a></li>
+			</ul>
 		<li><a href="missions.php">Missons</a></li>
-		<li><a href="reaching.php">Reaching Out</a></li>
-		<li><a href="staff.php">Staff Positions</a></li>
-		<li><a href="counseling.php">Counseling</a></li>
+			<ul>
+				<li><a href="missions.php">Missons &amp; Related</a></li>
+				<li><a href="reaching.php">Reaching Out - Acts 1:8</a></li>
+			</ul>
 		<li><a href="resources.php">Resources</a></li>
+			<ul>
+		<li><a href="staff.php">Open Staff Positions</a></li>
+		<li><a href="counseling.php">Counseling</a></li>
+		<li><a href="resources.php">Printable Publications</a></li>
 	</ul>
 </div>
 
