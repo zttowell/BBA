@@ -6,7 +6,7 @@
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-	<ul>
+	<ul id="nav_ul">
 		<li>Home</li>
 		<li>About</li>
 		<li>Contact</li>
