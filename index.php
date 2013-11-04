@@ -9,16 +9,16 @@
 <div id="nav_container">
 	<ul id="nav_ul">
 		<li><a href="#">Home</a></li>
-		<li><a href="#">About</a></li>
-		<li><a href="#">Contact</a></li>
-		<li><a href="#">Churches</a></li>
-		<li><a href="#">Calendar</a></li>
-		<li><a href="#">Employees</a></li>
-		<li><a href="#">Missons</a></li>
-		<li><a href="#">Reaching Out</a></li>
-		<li><a href="#">Staff Positions</a></li>
-		<li><a href="#">Counseling</a></li>
-		<li><a href="#">Resources</a></li>
+		<li><a href="about.php">About</a></li>
+		<li><a href="contact.php">Contact</a></li>
+		<li><a href="churches.php">Churches</a></li>
+		<li><a href="calendar.php">Calendar</a></li>
+		<li><a href="employees.php">Employees</a></li>
+		<li><a href="missions.php">Missons</a></li>
+		<li><a href="reaching.php">Reaching Out</a></li>
+		<li><a href="staff.php">Staff Positions</a></li>
+		<li><a href="counseling.php">Counseling</a></li>
+		<li><a href="resources.php">Resources</a></li>
 	</ul>
 </div>
 
