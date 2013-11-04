@@ -2,6 +2,7 @@
 <html>
 <head>
 	<title>Bell Baptist Association</title>
+	<link rel="stylesheet" type="text/css" href="normalize.css">
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
